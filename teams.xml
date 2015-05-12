@@ -1,0 +1,25 @@
+<teams>
+	<usa>
+		<member>
+			<name>Jeremy Adicoff</name>
+			<bio>Started a fund with the Aspen Skating Club to support competitive local male figure skaters ... Has a sister, Gwen, who was a competitive downhill skier ... Favorite snack is hummus</bio>
+		</member>
+
+		<member>
+			<name>Jake Adicoff</name>
+			<bio>Jake Adicoff has been a cross-country skier since he was in the second grade. He was initially introduced to the sport in 2002 through the Sun Valley Ski Education Foundation’s Junior Nordic Development team.</bio>
+		</member>
+
+		<member>
+			<name>Eddy Alvarez</name>
+			<bio>Loves mint chocolate chip ice cream ... Miami Heat fan ... Got into skating after rollerblading the streets of South Beach</bio>
+		</member>
+	</usa>
+
+	<can>
+		<member>
+			<name>Brittany Webster</name>
+			<bio>Did not enjoy cross-country skiing until she joined her high school team when she fell in love with freestyle technique and began racing…</bio>
+		</member>
+	</can>
+</teams>

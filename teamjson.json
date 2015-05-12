@@ -1,0 +1,36 @@
+{
+  "teams": {
+    "usa": {
+      "member": [
+        {
+          "name": "Jeremy Abboott",
+          "bio": "Jeremy Abbott was born in Aspen, Colorado to Allison and Danny Abbott. He has an elder sister, Gwen Abbott, a nationally ranked downhill skier who competed in the X Games as a ski racer, and a younger brother. He attended Cheyenne Mountain High School for five years, stretching his high school career out one year longer than the usual, so he could concentrate on both skating and getting good grades. He graduated in 2004."
+        },
+        {
+          "name": "Jake Adicoff",
+          "bio": "Jake Adicoff has been a cross-country skier since he was in the second grade. He was initially introduced to the sport in 2002 through the Sun Valley Ski Education Foundation’s Junior Nordic Development team. Adicoff, who is legally blind after incurring chicken pox in utero, has experience in both alpine and Nordic skiing. He spent three years on the SVSEF’s Alpine C Team before transitioning full-time to cross-country in 2005. Adicoff has spent most of his competitive career racing in an able-bodied field, having competed in two junior national championships in 2011 and 2013. It wasn’t until the made the 2013-14 U.S. Paralympics Nordic Skiing National Team that he fully shifted his focus to Sochi and the Paralympic Winter Games. "
+        },
+        {
+          "name": "Eddy Alvarez",
+          "bio": "The son of Cuban immigrants, Eduardo Alvarez was born January 30, 1990 to mother Mabel and father Walter. He grew up in Miami, graduating from Christopher Columbus High School. At age five, Alvarez was given a pair of plastic roller skates. He quickly found he had a talent and passion for the sport, performing tricks such as jumping over boxes for weekend crowds in South Beach. At age seven, his coach, Bob Manning, introduced him to the ice. Taking inspiration from fellow Manning student and Miami resident Jennifer Rodriguez, Alvarez commit himself to one day making the Olympics. At age eleven, 'Eddie the Jet' as he was becoming known as, won the triple crown – national age level titles in inline speed skating, long track speed skating, and short track speed skating.During high school, Alvarez put his skating career on hold to focus on his other love – baseball. He played well enough to earn a full athletic scholarship to St. Thomas University as a shortstop. However, the idea of competing in the Olympics drew him back to speed skating and Alvarez declined the scholarship. 'Basically my senior year I went up to the head coach and I was like, ‘listen I’ve always had this goal, or a dream, and I want to go back to skating.’' he recalled. 'So I dropped baseball and went back to skating.'"
+        }
+      ]
+    },
+    "can": {
+      "member": [
+        {
+          "name": "Brittney Andrews",
+          "bio": "test"
+        },
+        {
+          "name": "Jake Adicoff",
+          "bio": "Jake Adicoff has been a cross-country skier since he was in the second grade. He was initially introduced to the sport in 2002 through the Sun Valley Ski Education Foundation’s Junior Nordic Development team."
+        },
+        {
+          "name": "Eddy Alvarez",
+          "bio": "Loves mint chocolate chip ice cream ... Miami Heat fan ... Got into skating after rollerblading the streets of South Beach"
+        }
+      ]
+    }
+  }
+}
